@@ -1,0 +1,6 @@
+{
+  "name": "ScholarSpace",
+  "description": "Offline-first personal study library, Microsoft To Do-inspired task planner, and Pomodoro focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
